@@ -1,4 +1,4 @@
-[2:29 PM, 12/11/2024] Anjali: ## Overview
+## Overview
 
 This is a simple chatbot implemented in Python. It uses regular expressions to detect user inputs and respond accordingly. The chatbot can handle greetings, jokes, questions, and various conversational topics such as movies, books, and more.
 
